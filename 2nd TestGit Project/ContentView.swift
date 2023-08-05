@@ -23,6 +23,7 @@ struct ContentView: View {
 
 let pots = 1
 let potz = 0
+let simple = "and Clean"
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
