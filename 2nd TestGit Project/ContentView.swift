@@ -21,6 +21,9 @@ struct ContentView: View {
     }
 }
 
+let pots = 1
+let potz = 0
+
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
